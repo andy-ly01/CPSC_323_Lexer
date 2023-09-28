@@ -1,0 +1,12 @@
+while (t < lower) r = 28.00;
+
+char test42 = 'a';
+
+int test = -1;
+
+int main() {
+    printf("%s", "Hello, World!");
+    return 0;
+}
+
+char* _hello = "123";

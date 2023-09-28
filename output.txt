@@ -1,0 +1,47 @@
+Tokens               Lexemes
+----------------------------
+keyword              while
+delimiter            (
+identifier           t
+operator             <
+identifier           lower
+delimiter            )
+identifier           r
+operator             =
+literal              28.00
+delimiter            ;
+keyword              char
+identifier           test42
+operator             =
+char literal         '
+char literal         a'
+delimiter            ;
+keyword              int
+identifier           test
+operator             =
+operator             -
+number               1
+delimiter            ;
+keyword              int
+identifier           main
+delimiter            (
+delimiter            )
+delimiter            {
+identifier           printf
+delimiter            (
+String              "%s"
+delimiter            ,
+operator             ,
+String              "Hello, World!"
+delimiter            )
+delimiter            ;
+keyword              return
+number               0
+delimiter            ;
+delimiter            }
+keyword              char
+operator             *
+identifier           hello
+operator             =
+String              "123"
+delimiter            ;
